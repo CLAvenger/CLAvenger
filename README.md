@@ -1,4 +1,4 @@
-### HI there.
+### Hi there.
 I'm **lei chen**,a student from USTC
 
 📫 **Platform**
