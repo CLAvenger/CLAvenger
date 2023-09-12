@@ -16,19 +16,16 @@ Ubuntu / VS Code
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 mins              ████████████████████░░░░░   81.68 % 
-Python                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-C++                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Notes                    6 mins              ████████████████████░░░░░   81.68 % 
-projects                 1 min               █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -40,5 +37,5 @@ Python                   1 repo              ███████████�
 
 
 
- Last Updated on 11/09/2023 00:32:11 UTC
+ Last Updated on 12/09/2023 00:30:23 UTC
 <!--END_SECTION:waka-->
