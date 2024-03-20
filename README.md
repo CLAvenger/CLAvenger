@@ -16,17 +16,16 @@ Ubuntu / VS Code
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 mins              ███████████████████████░░   91.57 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-projects                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -40,5 +39,5 @@ TypeScript               1 repo              ██████░░░░░�
 
 
 
- Last Updated on 19/03/2024 00:33:02 UTC
+ Last Updated on 20/03/2024 00:32:55 UTC
 <!--END_SECTION:waka-->
