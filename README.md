@@ -10,6 +10,24 @@ Ubuntu / VS Code
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -19,5 +37,5 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 28/03/2025 00:48:26 UTC
+ Last Updated on 29/03/2025 00:47:54 UTC
 <!--END_SECTION:waka-->
