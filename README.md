@@ -6,7 +6,7 @@ I'm **lei chen**,a student from USTC
 Ubuntu / VS Code
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.96%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -16,16 +16,18 @@ Ubuntu / VS Code
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   32 mins             █████████████████████░░░░   85.11 % 
+CSV                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+projects                 21 mins             ██████████████░░░░░░░░░░░   57.06 % 
+MR                       16 mins             ███████████░░░░░░░░░░░░░░   42.94 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -37,5 +39,5 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 25/04/2026 01:22:54 UTC
+ Last Updated on 26/04/2026 01:44:40 UTC
 <!--END_SECTION:waka-->
